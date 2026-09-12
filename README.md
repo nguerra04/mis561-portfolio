@@ -1,2 +1,4 @@
 # mis561-portfolio
 Portfolio of projects from my Data Visualization course. This will include the completion of assignments in Excel, Tableau, PowerBI through DataCamp, Adobe Express, and various AI tools. 
+
+Initial E-Commerce Profitability Analysis, Which areas of Southwest Office Solutions’ e-commerce operation are profitable or unprofitable across product categories, customer segments, regions, shipping methods, and discount levels?, [a link to my published Tableau workbook](https://public.tableau.com/views/AdvancinginExcelandTableau-Pt1_17891853804700/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), If I were to do this analysis again, I would incorporate additional variables to develop a more complete understanding of the underlying drivers of profitability.
