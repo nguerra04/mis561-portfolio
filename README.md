@@ -15,3 +15,14 @@ My biggest remaining gap is practical experience publishing and maintaining repo
 **AI Acknowledgment**: I used ChatGPT to help refine this reflection using my Flex 3 and Flex 4 assignments and Power BI coursework as references.
 
 MIS 561 – Advancing in Excel & Tableau, Part 3: Card Portfolio Review – Contactless Readiness | Business Question: Which non-contactless cards should Bear Down Bank replace early to improve customer experience while minimizing unnecessary replacement costs? | [a link to my published Tableau workbook](https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness_17924706086000/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Future Improvement: I would add more detailed cost-benefit analysis to evaluate the long-term financial impact of early card replacements.
+
+## Nov 2, 2026 · Data Storytelling with Adobe Express
+**Consulting Firm:** Guerra Analytics
+**Client:** Southwest Office Solutions
+**Executive:** Chief Financial Officer (CFO)
+**Recommendation:** Reduce discounts and test higher prices on Tables, which generated $16,937.44 in total losses, to improve profitability.
+**[Work Sample (PDF)](https://github.com/nguerra04/mis561-portfolio/blob/main/adobe/guerra-data-storytelling.pdf)** · **[Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:e3c3a547-fd0a-50df-9865-b8fc403313be?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)**
+**Design Justification:** I used an average-profit-per-order dot plot alongside discount-rate and total-loss charts because the CFO needs to understand both the severity of losses and the potential pricing issues behind them. A pie chart would have obscured the differences in financial losses. I removed the original Tableau dashboard headline and client logo to prioritize the recommendation and maintain consistent Guerra Analytics branding.
+**Training Completed:** November 2, 2026
+### Generative AI Disclosure
+OpenAI. (2026, November 2). *ChatGPT (GPT-6, including image generation)* [Generative AI tool]. https://chatgpt.com/
