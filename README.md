@@ -52,4 +52,4 @@ Toughest objection: "What if customers buy fewer tables when discounts are reduc
 
 AI use: ChatGPT (GPT-6), November 16, 2026: assisted with presentation structure, visual design, and identifying the CFO's strongest objection (Slides 1–8). All financial figures and numbers were drawn from prior coursework.
 
-Training completed:** **November 16, 2026
+Training completed: November 16, 2026
