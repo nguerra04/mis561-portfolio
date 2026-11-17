@@ -46,7 +46,7 @@ OpenAI. (2026, November 2). *ChatGPT (GPT-6, including image generation)* [Gener
 
 Pitch to the Chief Financial Officer at Southwest Office Solutions: approve a six-week pricing and discount pilot focused on improving profitability in the Tables subcategory.
 
-[Pitch deck (PDF)](https://github.com/nguerra04/mis561-portfolio/blob/main/adobe/Guerra_Analytics_Product_Pitch.pdf) · [Adobe Express](https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:2d7ec94e-0a3b-52a5-af99-60563bce9c89?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+[Pitch deck (PDF)]([https://github.com/nguerra04/mis561-portfolio/blob/main/adobe/Guerra_Analytics_Product_Pitch.pdf](https://github.com/nguerra04/mis561-portfolio/blob/main/adobe/guerra-product-pitch.pdf)) · [Adobe Express](https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:2d7ec94e-0a3b-52a5-af99-60563bce9c89?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
 
 Toughest objection: "What if customers buy fewer tables when discounts are reduced?" Slide 7 addresses this concern through a controlled pricing pilot that monitors profitability and sales volume, maintains comparison groups, and establishes rollback safeguards before implementation.
 
