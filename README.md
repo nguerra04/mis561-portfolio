@@ -53,3 +53,13 @@ Toughest objection: "What if customers buy fewer tables when discounts are reduc
 AI use: ChatGPT (GPT-6), November 16, 2026: assisted with presentation structure, visual design, and identifying the CFO's strongest objection (Slides 1–8). All financial figures and numbers were drawn from prior coursework.
 
 Training completed: November 16, 2026
+
+**November 23, 2026 · Brand Standard Application in Tableau**
+
+Rebranded an exploratory IMDb movie dashboard and developed an explanatory dashboard to determine which movie genres the IMDb Advertising Sales team should prioritize for future advertising packages.
+
+[Tableau Workbook](https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17955011939330/DesignJustification?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+One thing I'd change: I would establish the dashboard layout and formatting standards before building the visualizations to reduce the time spent making individual adjustments.
+
+AI use: ChatGPT assisted with design ideas, technical troubleshooting, and refining written content for clarity and professionalism.
