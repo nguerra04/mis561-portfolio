@@ -58,7 +58,7 @@ Training completed: November 16, 2026
 
 Rebranded an exploratory IMDb movie dashboard and developed an explanatory dashboard to determine which movie genres the IMDb Advertising Sales team should prioritize for future advertising packages.
 
-[Tableau Workbook](https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17955011939330/DesignJustification?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau Workbook](https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17955011939330/DataMoviesIMDBDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 One thing I'd change: I would establish the dashboard layout and formatting standards before building the visualizations to reduce the time spent making individual adjustments.
 
